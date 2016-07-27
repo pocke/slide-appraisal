@@ -1,5 +1,7 @@
 # Appraisalを<br>使ってみた話
 
+2016/07/27 [Shinjuku.rb #39](https://shinjukurb.doorkeeper.jp/events/49357)
+
 ---
 
 # だれこれ
@@ -153,6 +155,18 @@ $ appraisal install
 $ bundle exec appraisal rspec
 # 4つのRailsのバージョンでテストが実行されるデモ
 ```
+
+
+---
+
+# まとめ
+
+---
+
+ちょろっとコードを書けば
+
+依存Gemのバージョンを切り替えてテストが出来る!
+
 
 ---
 
